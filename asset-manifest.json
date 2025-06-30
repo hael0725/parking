@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3757b3e.css",
-    "main.js": "/static/js/main.0b4ad2ef.js",
-    "static/js/453.a1b71e72.chunk.js": "/static/js/453.a1b71e72.chunk.js",
-    "static/media/APT2.png": "/static/media/APT2.a969a82cb208825116fb.png",
-    "index.html": "/index.html",
-    "main.e3757b3e.css.map": "/static/css/main.e3757b3e.css.map",
-    "main.0b4ad2ef.js.map": "/static/js/main.0b4ad2ef.js.map",
-    "453.a1b71e72.chunk.js.map": "/static/js/453.a1b71e72.chunk.js.map"
+    "main.css": "/parking/static/css/main.7b3bd267.css",
+    "main.js": "/parking/static/js/main.abce1461.js",
+    "static/js/453.a1b71e72.chunk.js": "/parking/static/js/453.a1b71e72.chunk.js",
+    "static/media/APT2.png": "/parking/static/media/APT2.a969a82cb208825116fb.png",
+    "index.html": "/parking/index.html",
+    "main.7b3bd267.css.map": "/parking/static/css/main.7b3bd267.css.map",
+    "main.abce1461.js.map": "/parking/static/js/main.abce1461.js.map",
+    "453.a1b71e72.chunk.js.map": "/parking/static/js/453.a1b71e72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3757b3e.css",
-    "static/js/main.0b4ad2ef.js"
+    "static/css/main.7b3bd267.css",
+    "static/js/main.abce1461.js"
   ]
 }
